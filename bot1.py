@@ -4,8 +4,8 @@ import re
 api_id = 35433634
 api_hash = "a9468f9a7654ae557f8eb8ce74b2c79f"
 
-source_channel = -1003808509407
-target_channel = -1003944179057
+source_channel = -1001729775431
+target_channel = -1003864471994
 
 client = TelegramClient("session", api_id, api_hash)
 
